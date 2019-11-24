@@ -7,3 +7,4 @@ Penyelesaian program
 5. Bandingkan kembali (b) dengan (a) dan (c). Apabila bernilai true maka akan tercetak nilai (b).
 6. Apabila perbandingan kedua tersebut bernilai false, maka akan tercetak nilai (c).
 7. Nilai tercetak merupakan nilai terbesar.
+![](hasil.JPG)
